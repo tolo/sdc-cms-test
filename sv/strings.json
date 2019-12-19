@@ -1,6 +1,7 @@
 {
   "----- Allmänt -----": "",
   "back": "Tillbaka",
+  "text_not_found": "Kunde inte hitta text",
 
   "change_language": "Byt språk",
   "select_language": "Välj språk",
@@ -12,22 +13,22 @@
   "profession_securityguard": "Ordningsvakt",
 
 
-  "----- Sektioner -----": "",
+  "----- Sektioner (rubriker/titlar) -----": "",
   "symptom_title": "Symptom och beteende",
   "good_to_know_title": "Bra att känna till",
   "missing_person_title": "Försvunnen person",
   "about_title": "Om",
 
 
-  "----- Polis -----": "",
+  "----- Specifikt för: Polis -----": "",
   "police_home_title": "Om demens - för Polis",
 
 
-  "----- Ordningsvakt -----": "",
+  "----- Specifikt för: Ordningsvakt -----": "",
   "securityguard_home_title": "Om demens - för Ordningsvakt",
 
 
-  "----- Symptom -----": "",
+  "----- Sektion: Symptom -----": "",
   "symptom_apatisk": "Apatisk",
   "symptom_arg": "Arg och upprörd",
   "symptom_doljerdemenssjukdom": "Döljer demenssjukdomen",
@@ -53,5 +54,31 @@
   "symptom_tolka_intryck": "Tolka intryck",
   "symptom_vandrar_nattetid": "Vandrar nattetid",
   "symptom_vandrar_och_plockar": "Vandrar och plockar",
-  "symptom_vanforestallningar": "Vanföreställningar"
+  "symptom_vanforestallningar": "Vanföreställningar",
+
+
+  "----- Sektion: Bra att känna till -----": "",
+  "good_to_know_bra_att_kanna_till": "Bra att känna till",
+  "good_to_know_var_uppmarksam_pa": "Var uppmärksam på",
+  "good_to_know_fakta_om_demens": "Fakta om demens",
+  "good_to_know_tips_pa_bemotande": "Tips på bemötande",
+  "good_to_know_stodfunktioner": "Stödfunktioner",
+
+
+  "----- Sektion: Försvunnen person -----": "",
+  "missing_person_situation1": "Situation 1",
+  "missing_person_situation2": "Situation 2",
+
+
+  "----- Sektion: Mer/Om -----": "",
+  "more_about_heading": "Om",
+  "more_about_sdc": "Om Svenskt Demescentrum",
+  "more_about_app": "Om appen",
+  "more_contact_us_heading": "Kontakt",
+  "more_contact_us": "Kontakta oss",
+  "more_switch_profession_heading": "Annan yrkesgrupp?",
+  "more_switch_profession": "Växla till annan yrkesgrupp",
+  "about_version": "Version",
+  "about_open_link_error": "Kunde inte öppna länk.\\nVänligen öppna en webbläsare och besök http://demenscentrum.se/"
+
 }
