@@ -1,0 +1,57 @@
+{
+  "----- Allmänt -----": "",
+  "back": "Tillbaka",
+
+  "change_language": "Byt språk",
+  "select_language": "Välj språk",
+  "language_en": "Engelska",
+  "language_sv": "Svenska",
+  "language_system": "Systemstandard",
+
+  "profession_police": "Polis",
+  "profession_securityguard": "Ordningsvakt",
+
+
+  "----- Sektioner -----": "",
+  "symptom_title": "Symptom och beteende",
+  "good_to_know_title": "Bra att känna till",
+  "missing_person_title": "Försvunnen person",
+  "about_title": "Om",
+
+
+  "----- Polis -----": "",
+  "police_home_title": "Om demens - för Polis",
+
+
+  "----- Ordningsvakt -----": "",
+  "securityguard_home_title": "Om demens - för Ordningsvakt",
+
+
+  "----- Symptom -----": "",
+  "symptom_apatisk": "Apatisk",
+  "symptom_arg": "Arg och upprörd",
+  "symptom_doljerdemenssjukdom": "Döljer demenssjukdomen",
+  "symptom_forsvunnen": "Försvunnen person",
+  "symptom_forvirring": "Förvirring",
+  "symptom_hallucinationer": "Hallucinationer",
+  "symptom_hygien": "Hygien och klädsel",
+  "symptom_kan_inte_skilja-dag_och_natt": "Kan inte skilja mellan dag och natt",
+  "symptom_folja_samtal": "Kommunikation – svårt med samtal",
+  "symptom_forstar_inte": "Kommunikation – personen förstår inte",
+  "symptom_annan_tid": "Minne – befinner sig i en annan tid",
+  "symptom_minnesproblem-fragar_samma_sak": "Minne – frågar om och om igen",
+  "symptom_minnesproblem-glommer_svenska": "Minne – glömmer bort svenskan",
+  "symptom_minnesproblem-kanner_inte_igen": "Minne – känner inte igen",
+  "symptom_minnesproblem-narminne_langtidsminne": "Minne – närminne och långtidsminne",
+  "symptom_nekar": "Nekar, säger nej",
+  "symptom_ohammat_opassande_beteende": "Ohämmat och opassande beteende",
+  "symptom_passiv": "Passiv",
+  "symptom_planera_strukturera": "Planera och strukturera",
+  "symptom_plockar_rastlos": "Plockar och är rastlös",
+  "symptom_ropar_skriker": "Ropar och skriker",
+  "symptom_svart_att_utrycka_sig": "Svårt att uttrycka sig",
+  "symptom_tolka_intryck": "Tolka intryck",
+  "symptom_vandrar_nattetid": "Vandrar nattetid",
+  "symptom_vandrar_och_plockar": "Vandrar och plockar",
+  "symptom_vanforestallningar": "Vanföreställningar"
+}
